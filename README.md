@@ -1,4 +1,4 @@
-# Refer EDA.ipynb for approaching any data science problem :
+Refer EDA.ipynb for approaching any data science problem :
 1. Reading data using pandas and deciding the feature set.
 2. Remove missing values and outliers
 2. Analyze correlation of dependent variables with independent variables
